@@ -1,1 +1,8 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ git config -- user.name "example.example"
+```
+
+ ```javascript
+let name = prompt("What is your name?");
+alert(`Hello, ${name}! Welcome to our website.`);
+```
